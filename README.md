@@ -1,0 +1,3 @@
+# AuthGate JavaScript SDK
+
+(TBD)
